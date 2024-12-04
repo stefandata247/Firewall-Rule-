@@ -64,8 +64,4 @@ Generated Firewall Rule:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
 
-e-mail     : ajithchandranr@protonmail.com 
-
-linkedin  : https://www.linkedin.com/in/ajithchandranr/
